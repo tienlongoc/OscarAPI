@@ -1,1 +1,2 @@
 0 */2 * * * $HOME/OscarAPI/runOscarNews.sh
+0 */2 * * * $HOME/OscarAPI/runOscarAPI.sh
